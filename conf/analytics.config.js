@@ -33,6 +33,6 @@ module.exports = {
 
   // 微软 Clarity 站点分析
   // 只需要复制Clarity脚本中的ID部分，ID是一个十位的英文数字组合
-  CLARITY_ID: process.env.NEXT_PUBLIC_CLARITY_ID || 'smwe8x81dt'
+  CLARITY_ID: process.env.NEXT_PUBLIC_CLARITY_ID || NULL
   // <---- 站点统计
 }
